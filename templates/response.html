@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Stock Ticker</title>
+    <style>
+        body {
+            background-color: #27374D;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 90vh;
+        }
+        .chart-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 200vh;
+        }
+        .chart {
+            max-width: 500%;
+            width: 300vh;
+        }
+    </style>
+</head>
+<body>
+    <div class="chart-container">
+        <div class="chart">
+            {{ chart|safe }}
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,207 @@
+ADPT,Adaptive Biotechnologies Corporation | USA
+AMD,Advanced Micro Devices Inc. | USA
+AGR.VI,AGRANA Beteiligungs-Aktiengesellschaft | Austria
+AC.TO,Air Canada | Canada
+ALB,Albemarle Corporation | USA
+GOOGL,Alphabet Inc. | USA
+AMAG.VI,AMAG Austria Metall AG | Austria
+AMZN,Amazon.com Inc. | USA
+AAL,American Airlines Group Inc. | USA
+AIG,American International Group Inc. | USA
+ABCB,Ameris Bancorp | USA
+ANDR.VI,Andritz AG | Austria
+AGLT.VI,Angel Telecom AG | Austria
+AAPL,Apple Inc. | USA
+ATS.VI,AT & S Austria Technologie & Systemtechnik Ak | Austria
+T,AT&T Inc. | USA
+ATH.VI,Athos Immobilien AG | Austria
+ATRS.VI,Atrium European Real Estate Limited | Austria
+AEM.VI,AUSTRIA EMAIL AG | Austria
+AW2.VI,Autobank AG | Austria
+AZO,AutoZone Inc. | USA
+BANF,BancFirst Corporation | USA
+BBD,Banco Bradesco S.A. | USA
+BMA,Banco Macro S.A. | USA
+BAC,Bank of America Corporation | USA
+BCS,Barclays PLC | USA
+^BFX,BEL 20 | Index
+BENE.VI,BENE.VI | Austria
+BET.VI,Betbull Holding SE | Austria
+BIND.VI,BIND.VI | Austria
+BKS.VI,BKS Bank AG | Austria
+SQ,Block Inc. | USA
+BPMC,Blueprint Medicines Corporation | USA
+BXP,Boston Properties Inc. | USA
+BSX,Boston Scientific Corporation | USA
+BPTY.VI,BPTY.VI | Austria
+AVGO,Broadcom Inc. | USA
+BHD.VI,Burgenland Holding Aktiengesellschaft | Austria
+BWO.VI,BUWOG AG | Austria
+BWT.VI,BWT Aktiengesellschaft | Austria
+AI,C3.ai Inc. | USA
+CAI.VI,CA Immobilien Anlagen Aktiengesellschaft | Austria
+^FCHI,CAC 40 | Index
+COF,Capital One Financial Corporation | USA
+CCL,Carnival Corporation & plc | USA
+^BUK100P,Cboe UK 100 | Index
+^VIX,CBOE Volatility Index | Index
+CRF.VI,CEEREF SA | Austria
+CVX,Chevron Corporation | USA
+CFG,Citizens Financial Group Inc. | USA
+CLF,Cleveland-Cliffs Inc. | USA
+CWBR,CohBar Inc. | USA
+CMA,Comerica Incorporated | USA
+CWI.VI,Conwert Immobilien Invest SE | Austria
+C8I.VI,C-QUADRAT Investment AG | Austria
+DQ,Daqo New Energy Corp. | USA
+^GDAXI,DAX PERFORMANCE-INDEX | Index
+DOC.VI,DO & CO Aktiengesellschaft | Austria
+^DJI,Dow Jones Industrial Average | Index
+EAGB.VI,EAG-Beteiligungs Aktiengesellschaft | Austria
+EWBC,East West Bancorp Inc. | USA
+ECO.VI,ECO.VI | Austria
+^CASE30,EGX 30 Price Return Index | Index
+ENB.TO,Enbridge Inc. | Canada
+EBS.VI,Erste Group Bank AG | Austria
+^STOXX50E,ESTX 50 PR.EUR | Index
+^N100,Euronext 100 Index | Index
+EVN.VI,EVN AG | Austria
+FACC.VI,FACC AG | Austria
+FLU.VI,Flughafen Wien Aktiengesellschaft | Austria
+FL,Foot Locker Inc. | USA
+F,Ford Motor Company | USA
+FKA.VI,Frauenthal Holding AG | Austria
+FCX,Freeport-McMoRan Inc. | USA
+^FTSE,FTSE 100 | Index
+^KLSE,FTSE Bursa Malaysia KLCI | Index
+GGB,Gerdau S.A. | USA
+GBCI,Glacier Bancorp Inc. | USA
+GGAL,Grupo Financiero Galicia S.A. | USA
+GAGS.VI,Gurktaler AG | Austria
+GVC.VI,GVC Holdings PLC | Austria
+^HSI,HANG SENG INDEX | Index
+DINO,HF Sinclair Corporation | USA
+HIS.VI,HIRSCH SERVO AG | Austria
+HEP,Holly Energy Partners L.P. | USA
+HTI.VI,HTI High Tech Industries AG | Austria
+HUS.VI,Hutter & Schrantz AG | Austria
+HST.VI,Hutter & Schrantz Stahlbau AG | Austria
+^BVSP,IBOVESPA | Index
+^JKSE,IDX COMPOSITE | Index
+IIA.VI,Immofinanz AG | Austria
+IONS,Ionis Pharmaceuticals Inc. | USA
+^MXX,IPC MEXICO | Index
+JBLU,JetBlue Airways Corporation | USA
+JKS,JinkoSolar Holding Co. Ltd. | USA
+MAN.VI,Josef Manner & Comp. AG | Austria
+KTCG.VI,Kapsch TrafficCom AG | Austria
+KEY,KeyCorp | USA
+^KS11,KOSPI Composite Index | Index
+KRGS.VI,Kreco Realitaeten AG | Austria
+KTM.VI,KTM AG | Austria
+CIAG.VI,KTM Industries AG | Austria
+LVS,Las Vegas Sands Corp. | USA
+LNZ.VI,Lenzing Aktiengesellschaft | Austria
+LTH.VI,Linz Textil Holding Aktiengesellschaft | Austria
+LOW,Lowe's Companies Inc. | USA
+MTHO.VI,Management Trust Holding AG | Austria
+MRO,Marathon Oil Corporation | USA
+HED.VI,Maschinenfabrik HEID AG | Austria
+MA,Mastercard Incorporated | USA
+MEGEF,MEG Energy Corp. | USA
+^MERV,MERVAL | Index
+MSFT,Microsoft Corporation | USA
+MRNA,Moderna Inc. | USA
+IMOEX.ME,MOEX Russia Index | Index
+^IXIC,NASDAQ Composite | Index
+NYCB,New York Community Bancorp Inc. | USA
+IPO.VI,NEXXCHANGE AG | Austria
+^N225,Nikkei 225 | Index
+NIO,NIO Inc. | USA
+NU,Nu Holdings Ltd. | USA
+NVDA,NVIDIA Corporation | USA
+^XAX,NYSE AMEX COMPOSITE INDEX | Index
+^NYA,NYSE COMPOSITE (DJ) | Index
+OBS.VI,Oberbank AG | Austria
+OBSE.VI,OBSE.VI | Austria
+OXY,Occidental Petroleum Corporation | USA
+OMV.VI,OMV Aktiengesellschaft | Austria
+ORCL,Oracle Corporation | USA
+POST.VI,Österreichische Post AG | Austria
+OESD.VI,Österreichische Staatsdruckerei Holding AG | Austria
+OTS.VI,Ottakringer Getränke AG | Austria
+PAL.VI,Palfinger AG | Austria
+PARS.VI,Pankl Racing Systems AG | Austria
+PBR,Petróleo Brasileiro S.A. - Petrobras | USA
+PFE,Pfizer Inc. | USA
+PIN.VI,PI Power International Limited | Austria
+PIAG.VI,PIAG.VI | Austria
+PNFP,Pinnacle Financial Partners Inc. | USA
+PLUG,Plug Power Inc. | USA
+PYT.VI,Polytec Holding AG | Austria
+BPOP,Popular Inc. | USA
+POS.VI,PORR AG | Austria
+QCP.VI,QINO CAPITAL PARTNERS AG | Austria
+RBI.VI,Raiffeisen Bank International AG | Austria
+RAT.VI,Rath Aktiengesellschaft | Austria
+RHI.VI,RHI AG | Austria
+ROS.VI,Rosenbauer International AG | Austria
+^RUT,Russell 2000 | Index
+RYAAY,Ryanair Holdings plc | USA
+SPI.VI,S IMMO AG | Austria
+^GSPC,S&P 500 | Index
+^BSESN,S&P BSE SENSEX | Index
+^AXJO,S&P/ASX 200 | Index
+^IPSA,S&P/CLX IPSA | Index
+^NZ50,S&P/NZX 50 INDEX GROSS ( GROSS | Index
+^GSPTSE,S&P/TSX Composite index | Index
+SAC.VI,Sanochemia Pharmazeutika AG | Austria
+SLBS.VI,Schlumberger Aktiengesellschaft | Austria
+SBO.VI,Schoeller-Bleckmann Oilfield Equipment Aktien | Austria
+SGS.VI,SCOTTY GROUP SE | Austria
+SEM.VI,Semperit Aktiengesellschaft Holding | Austria
+399001.SZ,Shenzhen Index | Index
+SFNC,Simmons First National Corporation | USA
+000001.SS,SSE Composite Index | Index
+STM.VI,Stadlauer Malzfabrik Aktiengesellschaft | Austria
+SCL,Stepan Company | USA
+^STI,STI Index | Index
+SEOAY,Stora Enso Oyj | USA
+STR.VI,Strabag SE | Austria
+RUN,Sunrun Inc. | USA
+SWUT.VI,SW Umwelttechnik Stoiser & Wolschner AG | Austria
+^TA125.TA,TA-125 | Index
+TEAK.VI,TEAK HOLZ INT. AG | Austria
+TGNA,TEGNA Inc. | USA
+TKA.VI,Telekom Austria Aktiengesellschaft | Austria
+TSLA,Tesla Inc. | USA
+KO,The Coca-Cola Company | USA
+^JN0U.JO,Top 40 USD Net TRI Index | Index
+^TWII,TSEC weighted index | Index
+TSN,Tyson Foods Inc. | USA
+UBS.VI,UBM Development AG | Austria
+UBSE.VI,UBSE.VI | Austria
+UMBF,UMB Financial Corporation | USA
+UQA.VI,UNIQA Insurance Group AG | Austria
+UIV.VI,Unternehmens Invest AG | Austria
+VLY,Valley National Bancorp | USA
+VBPS.VI,VBPS.VI | Austria
+VER.VI,VERBUND AG | Austria
+VZ,Verizon Communications Inc. | USA
+VIG.VI,Vienna Insurance Group AG | Austria
+V,Visa Inc. | USA
+VOE.VI,Voestalpine AG | Austria
+VONOY,Vonovia SE | USA
+VVPS.VI,Vorarlberger Volksbank registrierte Genossens | Austria
+VNO,Vornado Realty Trust | USA
+WXF.VI,Warimpex Finanz- und Beteiligungs Aktiengesel | Austria
+WPB.VI,Wiener Privatbank SE | Austria
+WIE.VI,Wienerberger AG | Austria
+WOL.VI,Wolford Aktiengesellschaft | Austria
+WPAG.VI,WP AG | Austria
+WSFS,WSFS Financial Corporation | USA
+WYNN,Wynn Resorts Limited | USA
+YELP,Yelp Inc. | USA
+YPF,YPF Sociedad Anónima | USA
+ZION,Zions Bancorporation National Association | USA
+ZAG.VI,Zumtobel Group AG | Austria
