@@ -1,5 +1,5 @@
 # Group1_Abgabe
-Abgaben der Teilgruppe BODZIOCH, KRAMMER
+Abgabe der Teilgruppe BODZIOCH, KRAMMER
 
 # Flappy Pigeon
 flappy bird clone project
