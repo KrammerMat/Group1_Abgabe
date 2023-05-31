@@ -1,5 +1,5 @@
 # Group1_Abgabe
-Abgabe der Teilgruppe BODZIOCH, KRAMMER
+Abgaben der beiden Teilgruppen der Gruppe 3 (Paulina, Mathias, Patrick, Markus)
 
 # Flappy Pigeon
 flappy bird clone project
