@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>The Stock Ticker Home</title>
+    <style>
+        body {
+            background-color: #27374D;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 90vh;
+        }
+
+        div {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        h1 {
+            color: #BFDDE6;
+            font-size: 26px;
+            text-align: center;
+        }
+
+        p {
+            color: #BFDDE6;
+            font-size: 18px;
+            text-align: center;
+        }
+
+        form {
+            width: 100%;
+        }
+
+        input {
+            background-color: #526D82;
+            color: #27374D;
+            font-size: 18px;
+            border: none;
+            padding: 12px 18px;
+            margin-top: 14px;
+            margin-bottom: 0px;
+            border-radius: 8px;
+            align-items: center;
+        }
+
+        input[type="submit"] {
+            background-color: #B2BFD4;
+            cursor: pointer;
+            pointer-events: none;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #ffffff;
+        }
+
+        input:valid[type="submit"] {
+            pointer-events: auto;
+        }
+
+        input:invalid {
+            box-shadow: none;
+        }
+
+        .flash-message {
+            position: absolute;
+            top: 0;
+            width: 100%;
+            z-index: 9999;
+        }
+    </style>
+
+</head>
+<body>
+
+{% with messages = get_flashed_messages() %}
+    {% if messages %}
+        <div class="flash-message">
+            <div class="alert alert-danger d-flex align-items-center" role="alert">
+                <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Danger:">
+                    <use xlink:href="#exclamation-triangle-fill"/>
+                </svg>
+                <div>
+                    {{ messages[0] }}
+                </div>
+            </div>
+        </div>
+    {% endif %}
+{% endwith %}
+
+{% block content %}
+
+{% endblock %}
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-pzj9VTHsfYfrQwKvhaVq92MMQQLD0Lmowt7vkBEdn0CAtRdPLQFno2fGoxy5Xcky"
+        crossorigin="anonymous"></script>
+</body>
+</html>

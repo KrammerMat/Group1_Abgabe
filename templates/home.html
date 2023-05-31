@@ -1,70 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>The Stock Ticker</title>
-    <style>
-        body {
-            background-color: #27374D;
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 90vh;
-        }
+{% extends "base.html" %}
+{% block content %}
 
-        div {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-
-        h1 {
-            color: #BFDDE6;
-            font-size: 26px;
-            text-align: center;
-        }
-
-        p {
-            color: #BFDDE6;
-            font-size: 18px;
-            text-align: center;
-        }
-
-        form {
-            width: 100%;
-        }
-
-        input {
-            background-color: #526D82;
-            color: #27374D;
-            font-size: 18px;
-            border: none;
-            padding: 12px 18px;
-            margin-top: 14px;
-            margin-bottom: 0px;
-            border-radius: 8px;
-            align-items: center;
-        }
-
-        input[type="submit"] {
-            background-color: #B2BFD4;
-            cursor: pointer;
-            pointer-events: none;
-        }
-
-        input[type="submit"]:hover {
-            background-color: #ffffff;
-        }
-
-        input:valid[type="submit"] {
-            pointer-events: auto;
-        }
-
-        input:invalid {
-            box-shadow: none;
-        }
-    </style>
-</head>
 <body>
 <div>
     <h1>Please enter a ticker symbol</h1>
@@ -95,3 +31,5 @@
 </script>
 </body>
 </html>
+
+{% endblock %}

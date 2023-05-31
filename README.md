@@ -18,7 +18,7 @@ Follow these steps to set up and run the project:
 
    4.2 Create a file named `response.html` where the data of the requested stock symbol is retrieved and visualized.
 
-   4.3. Create a file name `error.html` which will offer an error message in case the api response is empty.
+   4.3. Create a file name `base.html` which defines the ccs style sheet for the html pages including the error handling
 
 5. Create a free user account on [PythonAnywhere](https://www.pythonanywhere.com/).
 

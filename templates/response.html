@@ -1,33 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>The Stock Ticker</title>
-    <style>
-        body {
-            background-color: #27374D;
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 90vh;
-        }
-        .chart-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 200vh;
-        }
-        .chart {
-            max-width: 500%;
-            width: 300vh;
-        }
-    </style>
-</head>
-<body>
+{% extends "base.html" %}
+
+{% block content %}
+
     <div class="chart-container">
         <div class="chart">
             {{ chart|safe }}
         </div>
     </div>
-</body>
-</html>
+
+    <div class="search-container">
+        <p>Please enter a ticker symbol</p>
+        <form method="POST" action="/response">
+            <input name="ticker" id="tickerInput" autocomplete="off" list="tickerList">
+            <datalist id="tickerList">
+                {% for ticker, company in ticker_data.items() %}
+                    <option value="{{ company }} - {{ ticker }}"></option>
+                {% endfor %}
+            </datalist>
+            <input type="submit" value="Search">
+        </form>
+    </div>
+    
+{% endblock %}
