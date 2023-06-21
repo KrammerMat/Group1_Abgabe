@@ -1,0 +1,26 @@
+CodeReview Gruppe (BODZIOCH, KRAMMER)
+
+#Allgemein:
+Sehr gut strukturierter Code! 
+Allgemeine Coding-Guidelines wurden eingehalten!
+  #Installationen zu Beginn des Projektes
+  #Deklaration von globalen Variablen unmittelbar den Installationen folgend!
+  #Installationen und globale Variablen durchgehend kommentiert und vorgehen dargestellt!
+
+Sehr gute Exekution des Themas mittels Flask in Kombination mit jinja und plotly-Grafiken!
+
+Als einziges Kritkpunkt könnte angemerkt werden dass man es als Multi-File-Projekt hätte aufbauen können.
+Der Punkt schadet aber keinesfalls da es sich trotz eines Files sehr übersichtlich gestaltet und ausreichend kommentiert ist!
+
+#Code-spezifischer Teil:
+  Strukturell guter Aufbau der Reihenfolge der Funktionen!
+  Flask-Funktionen bilden den Abschluss sodass in Kombination mit der Kommentierung klar ersichtlich ist welche Funktion welche Aufgabe erfüllt.
+  In Kombinatino zu dem gerade beschriebenen Punkt ist die Kommentierung der Funktionen mehr als ausreichend!
+
+Zusätzlicher Achtungspunkt ist dass auch die Security geachtet wurde indem die Flask-Funktionen ausschließlich mit "POST"-Eigenschaften definiert wurden sodass keine Eingaben vom Server übernommen werden.
+
+#html-Input:
+  Die html-Files sind gut strukturiert und direkt mit css-styles versehen. Eigene css-Files sind hier nicht notwendig da die Styles ohnehin lediglich einmal definiert und verwendet werden.
+  Die Exekution der Funktionen mittels jinja ist sehr gut leserlich implementiert und logisch aufgebaut!
+
+
