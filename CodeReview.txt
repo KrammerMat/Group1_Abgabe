@@ -1,0 +1,30 @@
+CodeReview Gruppe (Scheffler, Heuschober)
+
+#Allgemein
+
+Der Code ist gut strukturiert und nachvollziehbar in unterschiedliche Dateien aufgeteilt.
+Die Allgemeinen Coding-Guidelines werden eingehalten und durchgehend einheitlich berücksichtigt, z.B.:
+  /Verständliche Variablen- und Funktionsnamen
+  /Sinnvolle Abgrenzung und Aufgabe der Funktionen 
+  /Durchgängige Kommentierung des Codes
+
+Insgesamt sehr guter Ansatz mit Pygame sowie der Verwendung von Sprites zur effizienten Darstellung und Handbahung der Spielobjekte! 
+
+
+#Codes-spezifischer Teil
+
+Insgesamt wahrscheinlich sehr gute Umsetzung eines Spiels, die im Detail von unserer (nicht so fortgeschrittenen) Warte nicht sehr einfach zu beurteilen ist.
+
+Verwendung von Modulen könnte ggf. optimiert werden: anstatt alle Module mit import pygame, time, sys auf einmal zu importieren, könnte man nur die benötigten Module importieren,
+z.B. import pygame oder from pygame import sprite, event, etc.
+
+Verwendung von Konstanten: Statt im Code Zahlenwerte zu verwenden, könnte man diese als Konstanten definieren, um die Lesbarkeit zu verbessern. 
+Beispielsweise könnte man eine konstante Variable wie OBSTACLE_TIMER_INTERVAL = 1400 am Anfang des Codes definieren.
+
+Deshalb vielleicht noch Stichwort: 
+
+
+#Dokumentation
+
+Innerhalb des Codes hätten die Kommentare vielleicht noch ausführlicher sein und genauer erklären können, was mit bestimmten Abschnitten erreicht wird.
+Das könnte, insbesondere auch für weniger fortgeschrittene Entwickler:innen die Verständlichkeit noch erhöhen, z.B. bei den Funktionen des main.py.
