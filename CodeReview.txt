@@ -21,7 +21,9 @@ z.B. import pygame oder from pygame import sprite, event, etc.
 Verwendung von Konstanten: Statt im Code Zahlenwerte zu verwenden, könnte man diese als Konstanten definieren, um die Lesbarkeit zu verbessern. 
 Beispielsweise könnte man eine konstante Variable wie OBSTACLE_TIMER_INTERVAL = 1400 am Anfang des Codes definieren.
 
-Deshalb vielleicht noch Stichwort: 
+Funktional wird das Spiel ohne diese beiden Improvements natürlich aber nicht beeinträchtigt, weshalb sie ggf. auch erst bei noch intensiverer Weiterentwicklung des Spiels angedacht werden können.
+
+Dazu vielleicht aber noch das Stichwort: 
 
 
 #Dokumentation
